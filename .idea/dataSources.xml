@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4062730799">
+    <data-source source="LOCAL" name="defaultPersistenceUnit" uuid="929b6957-6951-4032-b996-7fa6200ae9dc">
+      <driver-ref>hsqldb.remote</driver-ref>
+      <jdbc-driver>org.hsqldb.jdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:mem:spring</jdbc-url>
+      <user-name>sa</user-name>
+      <libraries>
+        <library>
+          <url>file://C:\Users\Mike\.m2\repository\org\hsqldb\hsqldb\2.2.9\hsqldb-2.2.9.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="persistence" uuid="1624cf45-b704-4c96-9f29-595c856ea89a">
+      <driver-ref>hsqldb.remote</driver-ref>
+      <jdbc-driver>org.hsqldb.jdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:mem:spring</jdbc-url>
+      <user-name>sa</user-name>
+      <libraries>
+        <library>
+          <url>file://C:\Users\Mike\.m2\repository\org\hsqldb\hsqldb\2.2.9\hsqldb-2.2.9.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="persistenceHSQL" uuid="5e29cd7f-1c7f-4a12-9729-5f5ab0980f35">
+      <driver-ref>hsqldb.remote</driver-ref>
+      <jdbc-driver>org.hsqldb.jdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:mem:spring</jdbc-url>
+      <user-name>sa</user-name>
+      <libraries>
+        <library>
+          <url>file://C:\Users\Mike\.m2\repository\org\hsqldb\hsqldb\2.2.9\hsqldb-2.2.9.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
